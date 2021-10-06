@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>book on ExampleSite</title>
+    <title>book on baoliaoinfo.org</title>
     <link>https://baoliaoinfo.org/tags/book/</link>
-    <description>Recent content in book on ExampleSite</description>
+    <description>Recent content in book on baoliaoinfo.org</description>
     <image>
       <url>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,12 +12,11 @@
     <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://baoliaoinfo.org/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>郭文贵2021年9月26日直播</title>
-      <link>https://baoliaoinfo.org/posts/2021/9/2009/</link>
+      <link>https://baoliaoinfo.org/posts/2009/</link>
       <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://baoliaoinfo.org/posts/2021/9/2009/</guid>
-      <description>Sources: gwins, gtv, gnews, gettr, youtube, livestream
-内容梗概:
+      <guid>https://baoliaoinfo.org/posts/2009/</guid>
+      <description>内容梗概:
 直播前视频播放
 视频
 采访时间：2021.9.22
@@ -57,7 +56,7 @@ EST 09/19/2021
 首字幕：
 MR.MILES GUO’S EARLY WARNING （郭先生的早期警告）
 ABOUT THE COVID VACCINE （关于新冠疫苗）
-Mr. Guo has repeatedly warned about the COVID vaccine. Subsequent events have validated his warnings.</description>
+Mr. Guo has repeatedly warned about the COVID vaccine. Subsequent events have validated his warnings. （郭先生曾多次对新冠疫苗发出警告。随后发生的事件证实了他的警告是正确的。</description>
     </item>
     
   </channel>

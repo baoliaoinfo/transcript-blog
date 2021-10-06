@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>老孟 on ExampleSite</title>
+    <title>老孟 on baoliaoinfo.org</title>
     <link>https://baoliaoinfo.org/tags/%E8%80%81%E5%AD%9F/</link>
-    <description>Recent content in 老孟 on ExampleSite</description>
+    <description>Recent content in 老孟 on baoliaoinfo.org</description>
     <image>
       <url>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,12 +12,11 @@
     <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://baoliaoinfo.org/tags/%E8%80%81%E5%AD%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>郭文贵2019年9月11日视频</title>
-      <link>https://baoliaoinfo.org/posts/2019/9/824/</link>
+      <link>https://baoliaoinfo.org/posts/824/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://baoliaoinfo.org/posts/2019/9/824/</guid>
-      <description>Sources: gwins, gtv, gnews, gettr, youtube, livestream
-内容梗概:
+      <guid>https://baoliaoinfo.org/posts/824/</guid>
+      <description>内容梗概:
 以下是茅屎坑战友没校对前的内容。
 可是这个战友名单中的产品。
 嗯好的。
@@ -71,7 +70,8 @@ Andy.亲爱的郭大也好，顶。
 那9000多。
 不还卡呀。你们最后一次看。
 这会儿好。
-这个这个真的不是咱们这个这个。</description>
+这个这个真的不是咱们这个这个。
+Sources: gwins, gtv, gnews, gettr, youtube, livestream</description>
     </item>
     
   </channel>

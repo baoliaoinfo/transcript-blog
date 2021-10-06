@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>珠海 on ExampleSite</title>
+    <title>珠海 on baoliaoinfo.org</title>
     <link>https://baoliaoinfo.org/tags/%E7%8F%A0%E6%B5%B7/</link>
-    <description>Recent content in 珠海 on ExampleSite</description>
+    <description>Recent content in 珠海 on baoliaoinfo.org</description>
     <image>
       <url>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,12 +12,11 @@
     <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://baoliaoinfo.org/tags/%E7%8F%A0%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>郭文贵2018年12月12日视频</title>
-      <link>https://baoliaoinfo.org/posts/2018/12/511/</link>
+      <link>https://baoliaoinfo.org/posts/511/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://baoliaoinfo.org/posts/2018/12/511/</guid>
-      <description>Sources: gwins, gtv, gnews, gettr, youtube, livestream
-内容梗概:
+      <guid>https://baoliaoinfo.org/posts/511/</guid>
+      <description>内容梗概:
 尊敬的战友们
 今天是12月12日，你们健身了吗？我刚健完，还得蹦两下。
 记得头两天直播完以后，很多国内的，香港的，台湾的朋友，问我很多问题。特别是关于到江家的。
@@ -42,7 +41,8 @@
 放心啊！一切都是刚刚开始！
 谢谢！亲爱的战友们！
 一切都是刚刚开始！
-报平安完毕。</description>
+报平安完毕。
+Sources: gwins, gtv, gnews, gettr, youtube, livestream</description>
     </item>
     
   </channel>
