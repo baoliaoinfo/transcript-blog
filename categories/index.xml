@@ -9,11 +9,47 @@
       <link>https://baoliaoinfo.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://baoliaoinfo.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://baoliaoinfo.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021年12月</title>
+      <link>https://baoliaoinfo.org/categories/2021%E5%B9%B412%E6%9C%88/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B412%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GTV</title>
+      <link>https://baoliaoinfo.org/categories/gtv/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/gtv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021年11月</title>
+      <link>https://baoliaoinfo.org/categories/2021%E5%B9%B411%E6%9C%88/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B411%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gettr</title>
+      <link>https://baoliaoinfo.org/categories/gettr/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/gettr/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2021年10月</title>
       <link>https://baoliaoinfo.org/categories/2021%E5%B9%B410%E6%9C%88/</link>
-      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B410%E6%9C%88/</guid>
       <description></description>
@@ -25,6 +61,15 @@
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B409%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://baoliaoinfo.org/categories/book/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/book/</guid>
       <description></description>
     </item>
     
@@ -43,6 +88,24 @@
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B407%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://baoliaoinfo.org/categories/others/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://baoliaoinfo.org/categories/youtube/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/youtube/</guid>
       <description></description>
     </item>
     
@@ -97,6 +160,15 @@
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://baoliaoinfo.org/categories/2021%E5%B9%B401%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gnews</title>
+      <link>https://baoliaoinfo.org/categories/gnews/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/gnews/</guid>
       <description></description>
     </item>
     
@@ -160,6 +232,15 @@
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://baoliaoinfo.org/categories/2020%E5%B9%B406%E6%9C%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livestream</title>
+      <link>https://baoliaoinfo.org/categories/livestream/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoliaoinfo.org/categories/livestream/</guid>
       <description></description>
     </item>
     
